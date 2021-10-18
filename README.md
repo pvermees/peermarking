@@ -1,8 +1,8 @@
-# Ranked peer marking
+## Ranked peer marking
 
 The purpose of these Python scripts is to:
 
-1. Optimally allocate peer marking assignments using John Talbot's block designs
+1. Optimally allocate peer marking assignments using John Talbot's block designs (which are stored in `blocks.json`)
 
 2. Randomly rename the pieces of coursework so as to ensure anonymity
 
@@ -28,9 +28,9 @@ This repository contains two Python scripts and five folders:
 
 * `1-submissions`: This is where you must place the assessments. This folder is currently populated by a scientific writing exercise from GEOL001
 
-* `2-peerassignments`: This folder is automatically populated by `peermarking.py`
+* `2-assignments`: This folder is automatically populated by `peermarking.py`
 
-* `3-reviews`: This folder contains the completed feedback forms from each student
+* `3-reviews`: This folder contains the completed feedback forms from each student. NOTE: at the moment, the feedback in this folder is numbered differently from the anonymised files in `2-assignments`. This different numbering scheme was inherited from the R code that preceded the Python code. This shouldn't matter for testing purposes. But in the future, we would obviously use consistent names.
 
 * `4-feedback`: This folder will be automatically populated by `peermarking.py` to complete steps 4-6 above.
 

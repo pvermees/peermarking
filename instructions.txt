@@ -15,6 +15,6 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
