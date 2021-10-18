@@ -1,0 +1,94 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this assessment.txt file to Moodle.
+
+
+---------------------------------------------------------------------------
+File name: 111167174-702477_19160418_Abstract_of_Lecture_One_1427063_1130042372.txt
+
+Rank: 5/5
+
+Feedback: 
+--------
+
+Only 402 words long, could have made the most of the 500-word limit and given more information.
+Most of the information seems to be present, it is understandable and the paragraph structure is good.
+The text reads quite well, but most sentences are long and too many commas have been used. There is little variation in sentence length. 
+Words like "Moreover", "In addition" and Furthermore" are being used too frequently and are taking up more of the word count than they should.
+
+
+---------------------------------------------------------------------------
+File name: 111168037-702541_16071976_Abstract_1427063_1913327602.txt
+
+Rank: 4/5
+
+Feedback: 
+--------
+
+497 words, good use of the given word limit.
+In the first paragraph, the passive voice is overused and the sentence length doesn't vary. 
+The text mostly reads well and is easy to understand.
+Most of the information is present, but seems more and more condensed towards the end of the abstract. Perhaps the first paragraph is not summarised enough.
+
+
+
+---------------------------------------------------------------------------
+File name: 111172023-702449_110044320_Abstract_1427063_60177606.txt
+
+Rank: 3/5
+
+Feedback: 
+--------
+
+472 words, good use of the given word limit.
+Lack of paragraphs makes it harder to read.
+Good variation in sentence length.
+The style is very good and easy to understand but has sacrificed a lot of the word count. As a result, essential information is missing; the "results" are not always given and the reader will have to read the full paper to get all of the lecture's information. An example of this is the abstract's last sentence.
+
+Conclusion: great style but sacrificed important content.
+
+
+---------------------------------------------------------------------------
+File name: 111172506-702475_16063531_Abstract_1427063_1153332793.txt
+
+Rank: 1/5
+
+Feedback: 
+--------
+
+499 words, good use of given word limit.
+Very nice style, varied sentence lengths.
+In the first paragraph, some parts of the paper's structure are not described (introduction, references). Missing information.
+The rest of the abstract continues to be well-written and no other information is missing.
+
+
+---------------------------------------------------------------------------
+File name: 111173157-702543_19169573_abstract.txt_1427063_1060043053.txt
+
+Rank: 2/5
+
+Feedback: 
+--------
+
+403 words, not making the most of the word limit.
+Lacks paragraphs.
+The abstract is very well-written, however, the section on why style is important and how to improve it has been left out.
+The only way this abstract could be improved is by adding that section, which would also mean that the word limit could be reached.
+Very good style, easy to read, good variation in sentence length.
+
+

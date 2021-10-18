@@ -1,0 +1,75 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this assessment.txt file to Moodle.
+
+
+---------------------------------------------------------------------------
+File name: 111156244-702529_19177656_Abstract.txt_1427063_1644334090.txt
+
+Rank: 4/5
+
+Feedback: 
+--------
+
+This submission is a good summery of the lecture, with most key points covered. There is a particular emphasis on the importance of effective communication strategies, such as importance of a well-constructed abstract and title, with Landes 1951 cited to emphasis the point. The text is slightly over the 500-word limit, but not sufficiently so to penalise. Some sentences were a little on the long side, which interrupted the flow of the piece especially when read out loud, but there was some effort to vary sentence length throughout. Overall, a good piece of work.
+
+
+---------------------------------------------------------------------------
+File name: 111157075-722735_19180052_GEOL0037_Assignment_1_1427063_1912130850.txt
+
+Rank: 3/5
+
+Feedback: 
+--------
+
+The good submission, which effectively communicates the majority of points of the lecture. There is a particular emphasis the structure and purpose of an abstract, in another to the effective use concise language. The advantages and disadvantages of using markup languages and WYSIWYG software to construct text is summarised effectively. A short discussion of the correct use of graphics is also included.  The text is within the word count. The text reads well, with a good variation in sentence length.
+
+
+---------------------------------------------------------------------------
+File name: 111158136-702471_19056514_abstract_1427063_761657559.txt
+
+Rank: 1/5
+
+Feedback: 
+--------
+
+A very good summation of the lecture, with all major points covered. It effectively summarises the importance of a detailed, concise abstract that communicates the essential points of the wider study. The importance of good use of graphics to further communicate key information is also covered. The text is well within the word limit. The text reads very well, with a nice variety in sentence length and structure, which keeps the reader engaged. Overall, a very good piece of work.
+
+
+---------------------------------------------------------------------------
+File name: 111160272-702537_16021686_abstract_1427063_273444484.txt
+
+Rank: 5/5
+
+Feedback: 
+--------
+
+A good summery of all key points of the lecture. Good writing structure in scientific work is highlighted, with the book by Donald Knuth referenced. The pros and cons of markup languages and WYSIWYG text formats is effectively discussed. The importance of good graphical work is reviewed, while highlighting the key differences between vector and raster images. A nice summery at the end ties the piece together. The text is slightly over the word count (by 23 words) but not enough to penalise. The text reads reasonably well, with a nice variety in sentence structure.
+
+
+---------------------------------------------------------------------------
+File name: 111163289-702509_19127940_abstract.txt_1427063_1925469492.txt
+
+Rank: 2/5
+
+Feedback: 
+--------
+
+A decent summery of the lecture. The importance of a good abstract to the MSc project is highlighted and examples of how to improve them is provided. The advantages of using mark-up languages, such as LaTeX, over WYSIWGY programs, such as Microsoft Word are discussed well. The importance of good use of graphics is also well covered, with multiple formats being highlighted, such as in publications, PowerPoint presentations, and scientific posters. The text is within the 500-word limit. The text reads well, with a good variety to sentence structures and lengths. Good work overall. 
+
+

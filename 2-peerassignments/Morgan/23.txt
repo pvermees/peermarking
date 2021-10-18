@@ -1,0 +1,19 @@
+When presenting scientific information, it is vitally important to make sure that it is given in a clear, engaging and precise manner. Many papers, posters and PowerPoints fail to do this. 
+
+There are 9 parts to a research paper, however, a majority of people will only read the first 3 parts. The 9 components of a research paper are; (1) Title, (2) Abstract, (3) Introduction, (4) Methods, (5) Results, (6) Discussion, (7) Conclusions, (8) Acknowledgements, (9) References. The Abstract should perfectly condense the information of the paper and should not simply detail what is discussed. The Introduction should include a brief overview of the literature and outline the paper. The Methods should include technical details only, which the reader should be able to use to replicate the results found in the paper. The results should be tabulated in the Results section. Discussion/speculation of the paper should only be in the Discussion section, and the reinforcement of the information given should be given in the Conclusion. Finally, Acknowledgements should thank people who were involved in the process but were not co-authors, such as investors. References should not include URLs as these can break over time and are not future proof.
+
+When writing a scientific paper, one of two types of program can be used; What You See is What You Get (WYSIWYG) and LaTex. WYSIWYG programs, such as Word, might be easier for a beginner to use than LaTex. However, the file size can become huge, they can become unreadable and the program struggles with formulae. In contrast, LaTex can be harder to learn but excels where WYSIWYG does not.
+
+Donald Knutt has 9 tips on writing a scientific paper. These include; keeping everything as simple as possible but not oversimplified, keeping the paper engaging for the target audience, and not recycling material. 
+
+Graphics are a fundamental part of any paper. Great care should be taken to ensure exactly the right amount of ink is used. Too much ink can make an image seem overcomplex or hard to read, and too little can lead to the graphic being unclear. Graphics can be inserted as either a Vector or Raster file. Vector should be used if the image isn’t a photo as the image will remain crisp regardless of how much the reader zooms in.
+
+PowerPoints can suffer from incomplete sentences and a confusing layout. This makes them unclear, boring or unappealing for the listener. This, in turn, makes the information more difficult to find as it becomes lost in huge arrays of indents or other less important information.
+
+Similarly, posters can have too much text in too small of a font. Such large walls of text are unappealing for the reader, who are often standing. Graphics can be too small, and equations can be too complex for a poster. In particular, equations should only be included if they are absolutely required and when used properly can eloquently and quickly convey the theory of the poster.
+
+
+
+
+
+

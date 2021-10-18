@@ -1,0 +1,34 @@
+Today's lecture talks about how to write scientific report.
+
+Dr Pieter Vermeesch began the lecture by presenting general guidelines to write a good scientific paper. 
+Most scientific papers and reports follow approximately the same outlines in each part: title, abstract, introduction, methods, results, discussion, conclusions, acknowledgments and references.
+Among them, Abstract is arguably the most important part of the paper. K.K. Landes¡¯s paper ¡°Scrutiny of an Abstract¡± further touches upon the importance of abstract: The abstract is read much more times than the entire article. It should not be a mere recital of the subjects covered. The abstract should be a condensation and concentration of the essential information in the paper.
+
+
+Subsequently£¬Dr Pieter provided some writing skills mentioned in a book called ¡°Mathematical Writing¡±. For example, you should break down complex things into parts and then explain each part; attract the attention of the reader; keep rewriting the article.
+
+
+In the next part of today¡¯s lecture, 14 useful methods about how to practice writing are shown£ºPractice replacing three words in a sentence without changing the meaning of the sentence; replacing the grammar of the sentence without changing the meaning of the sentence; writing a nonsense that is complete but meaningless; constructing the food you like to eat only by appearance; writing definitions for common words and compare it with the definition in the dictionary; try to write an article rather than type; etc.
+
+
+Thirdly, Dr Pieter introduced two ways of typesetting: WYSIWYG and markup language. Popular text editing programs such as Microsoft Word follow a ¡°WYSIWYG¡± design, which stands for ¡°What You See Is What You Get¡±. These programs are more user-friendly.  Alternatively, markup languages such as L ATEX and HTML require editing of code in a text editor and rendered in a separate application.
+WYSIWYG editors may be easier to learn than markup languages. But the latter often prove to be superior for anything longer and more complicated than a few pages of text.
+
+
+Next, Dr Pieter gave some examples of efective graphics and bad graphics. An excellent graph should give viewer greatest number of ideas in the shortest time with least ink.
+
+After that, this lecture taught us how to make effective graphics.
+1.ink-to-information ratio. It is better to add some annotations made of ¡®informative ink¡¯ to distract attention on the data.
+2.¡®Chart junk¡¯. Make the chart clear and effective.
+3.Vector vs. raster graphics. Two fundamentally different types of graphics can be chosen: Vector graphics¡ªefficiently display£¬compact in size£¬have infinite spatial resolution£»Raster graphics¡ª¡ª pixelated images£¬ only be used for photographs£¬tend to be larger in size and are pixelated when magnified.
+
+
+To conclude, this is an excellent lecture to let us know how to write a good scientific report.
+
+
+
+
+
+
+
+

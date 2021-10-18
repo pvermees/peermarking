@@ -1,0 +1,91 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this assessment.txt file to Moodle.
+
+
+---------------------------------------------------------------------------
+File name: 111157075-722735_19180052_GEOL0037_Assignment_1_1427063_1912130850.txt
+
+Rank: 1/5
+
+Feedback: 
+--------
+
+- Overview of the information
+- Highlights need for abstract to be well written
+- Includes structure of report and graphics in detail
+- Word Count: 482
+- Little variation in sentence length but overall reads well and flows well 
+
+---------------------------------------------------------------------------
+File name: 111158136-702471_19056514_abstract_1427063_761657559.txt
+
+Rank: 3/5
+
+Feedback: 
+--------
+
+- Overview of information, all aspects were covered if yet some were brief
+- Focus on graphics and the benefits of each type
+- Each aspect of the structure of the report was covered
+- The information regarding the abstract was not covered in great depth
+- Word Count: 432
+- Variation in sentence structure, reads more as separate points that do not necessarily flow
+
+---------------------------------------------------------------------------
+File name: 111160272-702537_16021686_abstract_1427063_273444484.txt
+
+Rank: 4/5
+
+Feedback: 
+--------
+
+- Overview of information, introduction in to what is overviewed
+- Shows understanding referring to Structure of a Scientific Paper, alongside Mathematical Writing and Visual Display of Quantitative Information 
+- Graphics covered in great depth, Mathematical Writing could be referred to more if it is deemed to be important and thus is worth more than a brief mention 
+- Quite often throughout the paper it is told what will be covered later on in the paper, this is unnecessary as this was mentioned in the brief introduction 
+- Word Count: 523
+- Reads well although sections could flow better 
+
+---------------------------------------------------------------------------
+File name: 111163289-702509_19127940_abstract.txt_1427063_1925469492.txt
+
+Rank: 2/5
+
+Feedback: 
+--------
+- Overview of the information, covers all aspects that was mentioned in the presentation 
+- Includes an outline of the structure, understands the importance of a well-written abstract and even suggests reviewing good and bad abstracts to improve one's writing which shows initiative 
+- Graphics discussed in great detail, complete overview and comparison between the different types
+- Word Count: 499
+- Reads well there is a good flow 
+
+---------------------------------------------------------------------------
+File name: 111163772-702505_18163356_Abstract_1427063_1377310216.txt
+
+Rank: 5/5
+
+Feedback: 
+--------
+
+- Overview of information, details each component and aspect needed in a research paper - regarding structure, provides a brief overview of each section and what it should entail 
+- Brief discussion of graphics, and another mention of graphics following a statement on Donald Knuth's work, which does not seem relevant in the context and thus should have been referred to more than just a brief mention. Also, it questions why the two graphic sections could not be linked together in order to aid a better flow of the paper?
+- Word Count: 494
+- The flow and overall read of the paper seems almost like bullet points and separate sections, but the content is very good 
+
+

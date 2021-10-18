@@ -1,0 +1,78 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this assessment.txt file to Moodle.
+
+
+---------------------------------------------------------------------------
+File name: 111172506-702475_16063531_Abstract_1427063_1153332793.txt
+
+Rank: 1/5
+
+Feedback: 
+
+This abstract was quite pleasant to read. It contained the main information covered in the lecture and the sentence structure made it flow quite well. It is a mix of longer and shorter sentences that keep the readers attention. Even though they went over the 500 word count, they did so only by 3 words, so a negligible amount. I firmly place them at the top of the list. The best abstract I was given.Only issue might be that there were different paragraphs divided by empty spaces, but that is quite a minor error.
+
+
+
+---------------------------------------------------------------------------
+File name: 111173157-702543_19169573_abstract.txt_1427063_1060043053.txt
+
+Rank: 2/5
+
+Feedback: 
+--------
+
+This abstract is quite succint at just over 400 words, but within that space it succesfully manages to convey the main information covered in the lectures. The sentences vary in length and are quite pleasant to read. It is easy to understand the messages that are being conveyed in this abstract. I place it in second place.
+
+
+
+---------------------------------------------------------------------------
+File name: 111173758-708817_16014733_Abstract.txt_1427063_141703441.txt
+
+Rank: 3/5
+
+Feedback: 
+--------
+
+While this abstract contains the main information covered in the lecture, it does not manage to condense it to stay within 500 word limit: it actually  surpasses that mark by 10%. The content and style however seem to be quite good. Most of the sentences are quite short, but there are a few longer ones placed inbetween. In this case I am not sure how to weight the exceeded length vs style, so I place this work third 
+
+
+
+---------------------------------------------------------------------------
+File name: 111252320-702545_19162427_abstract_1427063_1029898270.txt
+
+Rank: 5/5
+
+Feedback: 
+--------
+
+
+This abstract, at 248 words long, results a bit too short to be able to convey most of the information. It should have taken advantage of the 500 word limit to include more details. While the sentence length in this case too is quite varied, reading out loud causes some problems as it does not flow that well. One can understand the messages that the author wants to convey, but it is quite a short message.
+
+
+
+---------------------------------------------------------------------------
+File name: 111282761-720117_15006787_Scrutiny_of_an_Abstract_Lecture_1427063_1457572632.txt
+
+Rank: 4/5
+
+Feedback: 
+--------
+
+This abstract went over the word limit by just 9 word. I am not sure how to weigh this against the other factors being judged so I will consider it as quite a minor factor overall. While the structure, readability and sentence length all are quite pleasant, tthe content is a bit lacking. In this abstract the Author concentraed a bit too much on the first part of the lecture where we spoke about an article structure, but did not put much emphasis on the importance of writing style, language as well as on  figures and presentation. 
+

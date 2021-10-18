@@ -1,0 +1,69 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this assessment.txt file to Moodle.
+
+
+---------------------------------------------------------------------------
+File name: 111152417-677283_19029066_abstract_1427063_619880857.txt
+
+Rank: 3/5
+
+Feedback: 
+--------
+This abstract concludes the lecture with a clear structure. Several examples are given in the abstract as well. The work stays within the 500 words limit, and sentences make sense to me when I read them out. However, this abstract is quite similar to the handout on Moodle, and there is no conclusive sentences at the end of the work. There are possibly some meaningless names (e.g. "wmf", "emf"...) in the text, which in my opinion is not necessary.
+
+
+---------------------------------------------------------------------------
+File name: 111155486-702461_18163648_Abstract_writing_exercise_1427063_745111787.txt
+
+Rank: 1/5
+
+Feedback: 
+--------
+The abstract is fairly clear, everything is well structured. It summaries things not only displayed on the handout, also other things that were mentioned by the lecturer during the lecture. There are more than 500 words in this abstract (530 in total) but this does not affect it to be a good abstract. There is few evidences mentioned in the abstract, and this can be a weakness of it. Books (or people) mentioned in the lecture could be used as good examples.
+
+
+---------------------------------------------------------------------------
+File name: 111156244-702529_19177656_Abstract.txt_1427063_1644334090.txt
+
+Rank: 5/5
+
+Feedback: 
+--------
+I have to say that vocabularies in this abstract are quite perplexing, the sentences were very complex and not easy to understand, especially for non-native speakers. An abstract should be the most significant part of a paper, therefore, it should be easy for readers to understand. Euphuism is not helpful for others to understand, and a hard-to-read abstract is unsuccessful. Besides, there is a word in foreign language appears at the end of the abstract. 
+
+
+---------------------------------------------------------------------------
+File name: 111157075-722735_19180052_GEOL0037_Assignment_1_1427063_1912130850.txt
+
+Rank: 2/5
+
+Feedback: 
+--------
+This abstract summaries the lecture well. The contain is clear and within the word limit. sentences are easy to understand but not always have simple structures. Each paragraph has a unique topic. When read out loud, the abstract makes sense to me. However, there is few examples named, and the abstract is unable to open in txt. form. 
+
+---------------------------------------------------------------------------
+File name: 111158136-702471_19056514_abstract_1427063_761657559.txt
+
+Rank: 4/5
+
+Feedback: 
+--------
+The abstract concludes the main content of the lecture, the structure is clear and the article is within the word limit. When read the text out loud, sentences make sense to me and can be understand without difficulties. However, the abstract is written in only one paragraph, which is a bit hard to read. I suggest to write in several paragraphs to show the content clearer.
+
+

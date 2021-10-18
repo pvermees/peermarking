@@ -1,0 +1,19 @@
+Good scientific paper writing skills are important because a good writer can give readers a more pleasant and efficient experience. 
+The correct way to explain a complex thing is to break it into parts and then explain each part. “Everything should always be made as simple as possible, but not simpler” (Albert Einstein). 
+Most scientiﬁc papers and reports follow the same outline: Title, Abstract, Introduction, Methods, Results, Discussion, Conclusions, Acknowledgments, and References. 
+
+The title is a part that attracts attention from your readers whilst summarising the content of the paper.
+The abstract is the most important one, for it is read much more by people and it generalizes the entire article. The abstract should be condensation and concentration of the essential information in the paper so that the subsequent followers should be able to reconstruct the research according to the abstract.
+The introduction includes a brief literature survey and an outline of the paper.
+The method should be technical details that allow future researchers to reproduce your results.
+The results are outcomes and pure data from the author's experiments. Thus, both methods and results are dry and subjective contents that only contain facts, not interpretations.
+While the writer is trying to illustrate the data,  a graphic would be an excellent way to convey a direct display of facts. Graphical excellence is a well-designed presentation of important data and consists of complex ideas transmitting information with clarity, precision, and efficiency to the readers, which, in short, is having a large resultful information density within the graphic.
+
+From the discussion, speculations and interpretations are allowed and the authors might start to express their viewpoints.
+The conclusions should be a summary of the key findings and suggestions for future research.
+The acknowledgments should be a thank to any funding agencies, research supervisors or reviewers who have contributed to the research but are not co-authors on the paper.
+And references are quoted materials written in specific formats that indicate the titles, the name of the authors, the published time, etc. Therefore, the references would be reliable for finding the original documents of the quoted sentences.
+
+Some tips would be helpful in academic writing. 
+For example, trying to read the article while writing it would show the readers' perspective and help them to understand the article better. Readout loud, or let someone read the text would help the writing to be smoother. Writing on paper by hand, in pencil would perfectly synchronize with the speed at which the writer thinks, which might hold the spilling of inspiration. Use markup languages to write the text to create smaller files and more future proof. Use vector image for drawings and pixel image for photographs, to ensure the quality of the graphics.
+And rewritten new materials are better than recycled old material since science is always progressing. Rewriting the text multiple times can not only make the article smoother but also make it more accurate and clear. 

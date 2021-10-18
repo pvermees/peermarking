@@ -1,0 +1,74 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this assessment.txt file to Moodle.
+
+
+---------------------------------------------------------------------------
+File name: 111164169-702533_18081809_abstract_1427063_1733928975.txt
+
+Rank: 5/5
+
+Feedback: 
+--------
+
+The abstract is a condensation of the essential information in the presentation, however key points relating to the use of graphics and of powerpoints are missing from the text. The text does stay within the 500 word limit. The text doesn't read well, there is sufficient variation in sentence length however it reads very much like someone was creating bullet points and then forced it into paragraphs. The text is, in general understandable. However, in places there are key gramatical errors (which cause confusion when reading) such as "Some tips would be helpful in academic writing..." when the autor actually meant to write something more along the lines of "Here are some tips for academic writing". In general the flow isn't very good and some sentences are confusing, ontop of which some key details are missing. This results in an abstract that just isn't very engaging to read and comes across more as a set of notes more than an actual abstract.
+
+
+---------------------------------------------------------------------------
+File name: 111166293-702503_19092722_HJGD4_Abstract_1427063_15734031.txt
+
+Rank: 1/5
+
+Feedback: 
+--------
+
+The abstract contains a complete condensation of the essential information in the presentation. The text stays within the 500 word limit (when ID number and title are removed). The text reads smoothly with variation in sentences, very few if any major grammatical errors and sounds good when read aloud. This all lends itself to creating an abstract which is easy and pleasant to read. If any critism could be made it would be about the first few lines of the abstract which in general come over as very "let me introduce my abstract to the reader" when it might be more efficent to jump straight into the information (and might reduce word count, allowing for more important information to make the cut).
+
+
+---------------------------------------------------------------------------
+File name: 111167174-702477_19160418_Abstract_of_Lecture_One_1427063_1130042372.txt
+
+Rank: 3/5
+
+Feedback: 
+--------
+
+The abstract is a condensation of the essential information in the presentation, however key points relating to the use of graphics and of powerpoints are missing from the text. The text does stay within the 500 word limit, perhaps too much as it is barely over 400 words. The text reads well in general, some slight grammatical errors here and there but nothing bad enough to greatly disrupt the flow of reading. When reading it aloud there are some places where it sounds a tad off, but this is mostly from a native English speakers perspective, and although this might be avoided by the author using several drafts there is never anything which sounded dramatically out of place.
+
+---------------------------------------------------------------------------
+File name: 111168037-702541_16071976_Abstract_1427063_1913327602.txt
+
+Rank: 2/5
+
+Feedback: 
+--------
+
+The abstract contains a complete condensation of the essential information in the presentation. The text stays within the 500 word limit without issues. Most sentences have a variation in length, however, in the first paragraph there is a clear modal sentence length which whilst not a real issue is present. The text reads well, and does sound in general, natural when said aloud. The only slight problem is the information given about powerpoint presentations and about graphics. The information given for these is in a 2 sentence praragraph at the bottom of the abstract. This looks rather strange and is almost like a footnote at the bottom of the page. whilst the key information is covered, there might be better ways to write it as it makes the information look like an after thought after the otherwise well written main body of text.
+
+
+---------------------------------------------------------------------------
+File name: 111172023-702449_110044320_Abstract_1427063_60177606.txt
+
+Rank: 4/5
+
+Feedback: 
+--------
+
+The abstract contains a complete condensation of the essential information in the presentation. The text stays within the 500 word limit without issues. Most sentences have a variation in length, though some sentences come across as being excessively long. The text reads okay, and does sound in general, natural when said aloud. The main problem is the lack of paragraphs within the text. This creates a large wall of sentences that run on, seemingly going from one topic to the next without any great denotation. Had the author used paragraphs it would have been a much easier read, and much more pleasant to read as well. Some sentences don't read as well as they possibly could, but many sentences would benifit greatly by being reducing in length, possibly being split into two sentences.
+
+

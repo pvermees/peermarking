@@ -1,0 +1,24 @@
+Since master of science students are future scientists, principal training on written and visual 
+expression of academic works is crucial part of post-graduate courses. The first lecture of 
+Research Methods Module (GEOL0037) in Department of Earth Science, University College 
+London (UCL) fundamentally presents communication in science. The main aim of the first 
+lecture is the introduction of the course schedule and instructs guiding information which will 
+be useful not only dissertation process, but also eventual scientific works of the current 
+master students. Here the lecturer shows, through analysis of scientific papers, reports or 
+theses, they ensue the same outline respectively: title, abstract, introduction, methods, results, 
+discussion, conclusions, acknowledgments and references, whereas abstract, which includes 
+the "essential information" (Landes, 1966, p. 1992), is the most important section of a paper, 
+article or thesis. Comparisons of different types of text editing computer programs show that 
+markup language is more beneficial than What You See Is What You Get (WYSIWYG) 
+design. Besides written works, graphical or visual expression is the second most important 
+part of academic works. Graphical excellence eliminates complexity of ideas and long 
+comprehension time in modest space. Using visual expressions in studies is not sufficient 
+independently. Unmeasured or unnecessary graphical expressions affects reliability of these 
+studies. Inattentive designed charts cause distraction of audiences or readers. Preparing of 
+effective visuals is possible with vector graphics rather than raster graphics because of 
+unlimited spatial resolution. The lecture also includes a parody PowerPoint presentation 
+which is intentionally made instead of tedious method in order to show the conceptual style 
+of academic presentation. Analysis of prevalent mistakes on a real PowerPoint slide 
+illustrates main points to consider. Despite PowerPoint presentation, poster presentation is 
+another aspect of scientific communication. The key point of the making an effective research 
+poster is concentrate entire study with graphical excellence in systematic structure.

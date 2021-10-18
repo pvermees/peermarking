@@ -1,0 +1,100 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this assessment.txt file to Moodle.
+
+
+---------------------------------------------------------------------------
+File name: 111166293-702503_19092722_HJGD4_Abstract_1427063_15734031.txt
+
+Rank: 1/5
+
+Feedback: 
+--------
+
+[enter text here]
+ 1. It can be understood well and has covered most of the lecture.
+ 2. Sentences are understandable and not hard to read.
+ 3. It has a structure of deduction but not so clear in the end, that some paragraphs might seem separated from the centre idea.
+ 4. It is not true that most people do not read beyond the abstract. In my opinion is that people would read the abstract carefully to get the key information and then decide if they would keep reading the paper or not. It would be a rare case that people only have access to the abstract and try to understand the project by reading abstract only.
+ 5. Some conceptions might be better if they are presented with some simple explanations, like 'ink ratio'.
+ 6. Did not exceed the word limit.
+
+---------------------------------------------------------------------------
+File name: 111167174-702477_19160418_Abstract_of_Lecture_One_1427063_1130042372.txt
+
+Rank: 3/5
+
+Feedback: 
+--------
+
+[enter text here]
+ 1. It can be understood well and has covered most of the lecture.
+ 2. Sentences are understandable and not hard to read.
+ 3. It has a structure of subsections that makes it easy to find key points.
+ 4. Some important information were missing ,for example what are the criteria of a good abstract.
+ 5. It foucused more on the important information of scientific writing and presentations and provided details.
+ 6. Did not exceed the word limit but could have add more materials since there are only 400 words.
+
+
+---------------------------------------------------------------------------
+File name: 111168037-702541_16071976_Abstract_1427063_1913327602.txt
+
+Rank: 4/5
+
+Feedback: 
+--------
+
+[enter text here]
+ 1. It can be understood and has covered most of the lecture essentials
+ 2. Sentences are understandable and not hard to read.
+ 3. It has a  weak structure of subsections that lost the focus of the main idea in the end. Some paragraphs are similar to a note taken during the lecture without rewriting the material.
+ 4. It foucused more on the importance of abstract and provided a lot of details but misses some information of the other parts of a scientific paper like how to write a good title.
+ 5. Some passages are monotonous.
+ 6. Did not exceed the word limit.
+
+---------------------------------------------------------------------------
+File name: 111172023-702449_110044320_Abstract_1427063_60177606.txt
+
+Rank: 5/5
+
+Feedback: 
+--------
+
+[enter text here]
+ 1. It can be understood but has missed a lot of the lecture essentials
+ 2. Sentences are understandable and not hard to read.
+ 3. It has a  weak structure of deductions but used too many words on the introduction and failed to provide details.
+ 4. It foucused more on the importance of abstract and provided a lot of details but misses some information of the other parts of a scientific paper.
+ 5.Information of graphics was not specific and the outline of the structure of a scientific paper was missing.
+ 6. Did not exceed the word limit.
+
+---------------------------------------------------------------------------
+File name: 111172506-702475_16063531_Abstract_1427063_1153332793.txt
+
+Rank: 2/5
+
+Feedback: 
+--------
+
+[enter text here]
+ 1. It can be understood well and has covered most of the lecture.
+ 2. Sentences are understandable but a few were too long that made them hard to understand.
+ 3. It has a structure of deduction and all the paragraph focused on the centre idea.
+ 4. It foucused more on the importance of abstract and provided a lot of details but misses some information of the other parts of a scientific paper and only summarized them.
+ 6. Did not exceed the word limit.
+

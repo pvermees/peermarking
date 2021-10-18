@@ -1,0 +1,70 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this assessment.txt file to Moodle.
+
+
+---------------------------------------------------------------------------
+File name: 111282761-720117_15006787_Scrutiny_of_an_Abstract_Lecture_1427063_1457572632.txt
+
+Rank: 3/5
+
+Feedback: 
+--------
+Lacking some part of the information of the lecture.This not a condensation and concentration of the lecture.
+
+
+---------------------------------------------------------------------------
+File name: 111127819-702431_16076029_An_Abstract_of_the_Concrete_1427063_178297256.txt
+
+Rank: 2/5
+
+Feedback: 
+--------
+This student has a clear mind of what the professoer taught. But the sentence length is almost the same and the writing style is a little boring.
+
+
+---------------------------------------------------------------------------
+File name: 111130406-660509_18118084_GEOL0037_First_Lecture_Abstract_1427063_1293305548.txt
+
+Rank: 5/5
+
+Feedback: 
+--------
+The total length of the summary is too short and cannot conclude all impotant points.
+
+
+---------------------------------------------------------------------------
+File name: 111133358-702423_18074590_Abstract_1427063_899141958.txt
+
+Rank: 1/5
+
+Feedback: 
+--------
+The abstract is a condensation and concentration of the essential information in the lecture.Very brief and easy-reading.
+
+
+---------------------------------------------------------------------------
+File name: 111142205-702555_16062007_Abstract_Task_1427063_1133309738.txt
+
+Rank: 4/5
+
+Feedback: 
+--------
+This is not a kind of summary of the lecture, more like a scientific report to show your own opinion. Not easy to read and understand.
+
+
