@@ -6,6 +6,7 @@ import shutil
 # 1. setup
 np.random.seed(1) # for the sake of reproducibility
 dirs = ['1-submissions','2-assignments','3-reviews','4-feedback']
+instructions = 'instructions.txt'
 k = 5 # number of peers assigned to each student
 submissions = os.listdir(dirs[0])
 n = len(submissions)
@@ -44,14 +45,14 @@ for i in range(n):
     marker = path[0]
     ext = path[1]
     peers = pairs[i,:]
+    dstdir = os.path.join(dirs[1],marker)
+    if not os.path.exists(dstdir):
+        os.mkdir(dstdir)
     feedbackfile = os.path.join(dirs[1],marker,'feedback.txt')
-    shutil.copy('instructions.txt',feedbackfile)
     f = open(feedbackfile, 'a+')
+    shutil.copy(instructions,feedbackfile)
     for j in range(k):
         src = os.path.join(dirs[0],submissions[peers[j]])
-        dstdir = os.path.join(dirs[1],marker)
-        if not os.path.exists(dstdir):
-            os.mkdir(dstdir)
         alias = str(aliases[peers[j]]) + ext
         dst = os.path.join(dirs[1],marker,alias)
         shutil.copy(src,dst)
