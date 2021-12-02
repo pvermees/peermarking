@@ -1,7 +1,7 @@
 Instructions:
 ------------
 
-1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
 - Is the abstract a condensation and concentration of the essential information in my presentation?
 - Does the text stay within the 500 word limit?
 - Does the text read well? Is there sufficient variation in sentence length?
@@ -15,110 +15,51 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
+------------------------------------------------------------------------------------------
+File name: 4.txt
 
----------------------------------------------------------------------------
-File name: 111155486-702461_18163648_Abstract_writing_exercise_1427063_745111787.txt
+Rank:  1/5
 
-Rank: 1/5
+Feedback:
 
-Feedback: 
-1. The text is well-developed and clear;
-2. It doesn't mention of typesetting software and different digital formats of pictures;
-3. Sentences are not too long which are easy to read and understand;
-4. It provides quite detailed suggestions and information;
-5. Logical progression, mostly without strain.
+outstanding
 
---------
+------------------------------------------------------------------------------------------
+File name: 21.txt
 
-Abstract writing exercise
- 
-Effective scientific writing is an essential skillset for any aspiring scientist, and while there are few hard and fast rules, specific guidelines and presentational techniques should be followed. Good academic writing should strike a balance between analytical accuracy and engaging prose. This can start with an eye-catching title or an abstract that provides just enough information to both inform and intrigue the reader. Indeed, an abstract, such as this, may well be the most important part of the entire work, as most individuals will not get beyond this point. It is, therefore, in the authors best interest to engage and inform the reader in as effective a manner as possible by keeping the abstract concise, descriptive, and memorable. The same is true of the introduction, which should provide a thorough literature review in addition to further expanding on the core ideas of the study. From here, the method and results section should be kept purely analytical to keep ambiguity to a minimum. The method should be detailed enough that future researchers can easily replicate the experiment, while the results section should just present to facts of the study. Interpretation and speculation of results must be left for the discussion, while the conclusion should be used to summarise key findings and give the reader some indication of future research directions. Finally, acknowledging principal supervisors, funding bodies and referenced material should not be overlooked. No scientist truly works alone, after all.
- 
-Such methods of writing also apply to other forms of scientific writing, such as posters that outline a piece of research. Here, the need to quickly engage an audience is all the starker, as an onlooker may determine whether they will approach a poster or not in a matter of seconds. A poster that it overly text-heavy, filled with complicated, esoteric equations, and few accessible diagrams to quickly aid understanding is likely to be passed by without a second thought.
- 
-The importance of good graphical information can also not be understated. All studies produce data, often displayed in tables of numbers. While these are necessary for statistical analysis, they are difficult for any reader to glean relevant information. The proper use of appropriate graphs and diagrams should aid the message you are trying to convey by displaying complex ideas in an easily digestible manner. There are pitfalls, however, which should be avoided. Overcomplicating such images with unnecessary plots and ink detracts from the whole, leading to reader confusion, while omitting key annotations leads to oversimplification and a loss of meaning. Keeping everything scaled appropriately is also critical. Distorted images may better fit the page, but they will also provide a false impression of the information and contribute to the “lie factor”.
- 
-Good writing does not happen overnight. Any piece must be revised and rewritten multiple times to enhance the prose. Stepping away from the article and returning some days later provides distance allowing the writer to look at it with fresh eyes. The key is to keep things as straightforward as possible while avoiding simplism. People are busy and will most likely scan what they are reading. Make it easy for them and, above all, keep it interesting.
+Rank:  5/5
 
----------------------------------------------------------------------------
-File name: 111156244-702529_19177656_Abstract.txt_1427063_1644334090.txt
+Feedback:
 
-Rank: 4/5
+bad
 
-Feedback: 
-1. The text mainly discusses about how to write an abstract, little ink was put on others;
-2. Some sentences are a little bit long (The last paragraph only contains one sentence);
-3. Good structure, the text is cohesive；
-4. Few expressions are a little bit redundancy for the reader to understand;
-5. Wide range of vocabulary and good use of collocation.
+------------------------------------------------------------------------------------------
+File name: 16.txt
 
---------
+Rank:  2/5
 
-Abstract: A Guide to Scientific Report WritingFollowing an introduction to scientific report writing, it was highlighted and detailed the importance of features comprising a research report, with a particular focus on the content covered which is secondary to the clarity of communicating this information. Likewise, also demonstrating a sufficient understanding of the topic discussed tends to avoid redundancy whilst writing. This greatly impacts the intended outcome of the paper in ensuring the reading audience correctly perceives the authors intentions on the information they wish to convey. As there is no singular method that constitutes how to write a scientific report, the majority of research papers that use a similar outline are used in providing a concise guide to the style and structure appropriate for scientific writing. The guidance given highlighted an evident focus on the abstract, which will further be discussed, alongside sections such as the methodology and conclusion. In addition to this, the title should not be neglected as it provides significant insight to the paper and should articulate in a singular sentence the entirety of its content which is further explored in the abstract. In a Scrutiny of an Abstract (Landes 1951), the critical importance of a well written abstract is discussed due to the significant number of readers who read only the abstract and the title. As discussed by Landes (1951), the abstract is an overview of the paper, a concentration of information essential for other researchers to replicate the obtained results and reconstruct the same conclusions. Also, the abstract should summarise the methodology and results, whilst demonstrating how it contributes to the scientific community.  The difficulties that arise when writing a scientific research paper, as mentioned by Landes (1951), predominantly with the abstract, is often due to the over complexity of the writing style, and the nature to define scientific research and concepts with an array of complicated synonyms, and articulate the information in a way in which even the author does not fully understand their own work. A recurrent error with scientific writing is the tendency to fall into repetition throughout the paper. Particularly reiterating points and information in the abstract, and the excessive complexity of articulating concepts where simplicity would evade misunderstanding. Despite the predominant focus on the significance of an abstract, and how to compose one, subsequent sections in a research paper, such as the methodology, explores the appropriate use of graphics in data presentation and allows future researchers, as previously mentioned, to reproduce experiments and yield similar, if not, exact results of the initial research. Often the information in the results, discussion and conclusion are merged and demonstrate a lack of sufficient understanding in the differences between the features and the placement of information, such as interpreting the scientific significance of the data. Further to this, authors occasionally neglect to include suggestions for future research based on their findings. Conclusively, the guidelines provided firstly stress the importance of understanding scientific report writing, and the significance of practising writing an abstract whilst undertaking the process of peer reviews and assessments to better one阵 writing style and skills in articulation. 
+Feedback:
 
+great
 
----------------------------------------------------------------------------
-File name: 111157075-722735_19180052_GEOL0037_Assignment_1_1427063_1912130850.txt
+------------------------------------------------------------------------------------------
+File name: 15.txt
 
-Rank: 3/5
+Rank:  4/5
 
-Feedback: 
-1. It contains all essential information given by the lecture;
-2. Logical progression mostly without strain;
-3. The text is mostly cohesive;
-4. Sufficient range of vocabulary;
-5. There is sufficient variation in sentence length.
+Feedback:
 
---------
+okay
 
-Effective scientific communication results from being able to explain complex phenomena in simpler, concise language while remaining engaging to a target audience. This study aims to summarise the ways in which communication can be improved by drawing on the following examples: writing an abstract and structuring a scientific report, typesetting documents, displaying graphical data, and successfully creating a PowerPoint presentation or scientific poster.
-Many previous studies have aimed to elucidate the most effective ways to write scientific reports and present quantitative data, however it remains less clear which ways are most successfully able to typeset documents and synthesise information on a PowerPoint or poster. Many examples of poor abstracts and inadequate handling of statistical data can be found throughout the scientific literature, hence the reason for this study.
-An abstract must summarise the key information from the paper concisely while avoiding reciting the subjects covered. There should be an emphasis on the purpose and motivations for the study with a focus on what makes the paper a significant contribution. Here, it is shown what makes a competent or incompetent abstract with reference to examples. The general structure of a scientific report is as follows: 1. Title 2. Abstract 3. Introduction 4. Methods 5. Results 6. Discussion 7. Conclusions 8. Acknowledgements 9. References. The abstract will be the most read part of the report and so it is essential to consider as more than an afterthought when preparing a paper for publication.
-Commonly used software to type and format documents such as essays, reports and webpages are also important considerations for effective communication. This study assesses these major software packages and their advantages and disadvantages while focusing on What You See Is What You Get (WYSIWYG) designs vs. markup languages. It is shown that markup languages offer more benefits in the majority of cases despite taking more time to learn, while the WYSIWYG design offers a quick and simple solution to producing a document at the expense of several benefits.
-Graphical data is also an important consideration. This study highlights when a dataset is most effectively shown by a table, graph e.g. a scatter or bar graph or some other visual representation such as a choropleth map or comparative image. There is an emphasis that graphs must be both as clear as possible and have a low lie factor in order to be as engaging as possible while maintaining credibility.
-PowerPoint presentations and posters are also shown to be essential ways to convey scientific data. Here it is shown how these are made as effective as possible in terms of both visual appeal and clarity of the information being provided, again with reference to examples.
-The techniques outlined throughout this study are important for several reasons including engaging publishers, promoting funding and reaching a wider audience  all skills that are essential in the Earth sciences and transferrable to other fields of study.
+------------------------------------------------------------------------------------------
+File name: 3.txt
 
+Rank:  3/5
 
----------------------------------------------------------------------------
-File name: 111158136-702471_19056514_abstract_1427063_761657559.txt
+Feedback:
 
-Rank: 5/5
+good
 
-Feedback: 
-1. It's better to put the whole paragraph into several parts;
-2. The text contains all sections given by the lecture;
-3. Most sentences are quite short and easy to follow;
-4. Too much 'should', it's a bit strange when I read out;
-5. The text is mostly cohesive.
-
---------
-The lecture gave a broad introduction into the aspects of good scientific writing, how one approaches scientific writing and presenting writing. What makes scientific writing good, is clarity. Clear, simply delivered information that a reader can digest and understand is key to all writing; especially in scientific literature. The abstract should be summative and informative, allowing the reader to clearly understand the purpose of the paper. The body of text should flow well and highlight important information clearly, such as figure captions. Each section of the paper should be clear as to it purpose, the methodology should be an instruction guide on how to recreate the experiment, the results should be tabulated findings and graphical representation with no interpretation or bias. If each section is done well, the writing should be simple to understand. When looking at graphics they must be clear, not overusing ink or under using ink; they should be appealing to the eye. The way in which one should go about writing their paper, is to put themselves in the shoes of the reader by going over their work and rereading and rewriting, till it is easily understood. The way in which one approaches writing their work can be made simpler through the utilisation of correct software. Instead of relying on WYSIWYG (what you see is what you get) software for writing, such as Word, you can learn to use markup language, such as LaTeX. By choosing to change software you can drastically improve efficiency of writing long papers; through spending time learning new skills.  Further using the correct software for graphics is also important; making sure you use vector software to create drawings and images and raster editors for photos. Though both produce images, vector editors will always give clear and defined pictures. Raster data uses pixels so is only appropriate for photos, due to the nature of pixels they will become distorted as you zoom in, losing the desired sharp edges. The editors available are diverse and can suit all people with the right instruction. The proper software is key to efficient and well-presented work. The process of presenting data can be done in many manners, though presentations and posters are the most common. When presenting your study, it is important to take the same approach as writing; keep it clear, keep it simple. The problems of text heavy posters and non-sensical power point presentations, is that they do not capture the audience and can lead to confusion. The lecture showed that writing and presenting share the same principles, good, clear and simple writing; and effective graphics. 
-
-
----------------------------------------------------------------------------
-File name: 111160272-702537_16021686_abstract_1427063_273444484.txt
-
-Rank: 2/5
-
-Feedback: 
-1. The text contains most of the essential information given by the lecture;
-2. Good structure and clear logic;
-3. There is sufficient variation in sentence length;
-4. The text is well-supported with appropriate sources;
-5. The text is brief but comprehensive.
-
---------
-
-This dissertation aims to present a general summary of the Science Report Writing, allow to help better understanding of how to write a good scientific paper. There are mainly 5 different parts that will be discussed in this paper and each part will show some suggestions and comparisons for preparing a good essay.
-One of the most essential things is to follow the correct structure of scientific paper (Title, Abstract and Introduction…). Abstract is the most important part of the paper and should include a brief summary and conclusion. The detail of writing a good abstract will be presented in the “Security of the Abstract”. It is suggested that using the same reference style at the end of the paper is crucial and do not use URLs as reference. More guidelines for scientific writing will show in this paper in detail.
-There is a very useful book for academic writing called Mathematical Writing which is written by Donald Knuth. Many tips and exercises for writing are well discussed in this book and it could be a good tool for modifying the paper. One key sentence in this book is “Everything should always be made as simple as possible, but not simpler” (Albert Einstein).
-Two typesetting documents named WYSIWYG and markup language both show their advantages and disadvantages for text editing and formatting. WYSIWYG stands for “What You See Is What You Get” and this popular text editing program includes Microsoft Word or Google Docs, which is much easier to learn than markup languages. LATEX and HTML (Hyper-Text Markup Language) are two examples of Markup language and they can manage long and complex documents perfectly, but these tools require extra learning of editing code in a text editor.
-Another book named “The Visual Display of Quantitative Information” shows that using effective graphics can help readers to understand the data well. However, bad graphics display may distract attention away from the data and waste readers’ time on extraneous information. The Principles of Graphical Excellence best explained the importance of using appropriate graphics and figures. Chart junk refers to all visual elements that are not necessary to comprehend the information represented on the graph, such as using more colors or dimensions to overcomplicate the data.
-There are two main types of image files: Raster and Vector graphics, which can be used for making effective pictures. Two options are available for different uses. Vector graphics are based on mathematical formulas and are common for images that will be applied onto displaying line drawings and polygons. Raster graphics are made of millions of pixels that should only be used for photographs. Comparing these two options, Raster tends to be larger in size and pixelated when zoomed in, but Vector has infinite spatial resolution.
-The paper generally summarizes some tips for writing a good scientific report including structure of the paper, guidelines for writing from Donald Knuth, typesetting comparisons, principles of graphical excellence and two effective graphics for making figures. There is more than one single correct way to write a prefect scientific report, but most papers do follow roughly the same outline in which this paper has presented.
-
-
-
+------------------------------------------------------------------------------------------

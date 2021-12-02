@@ -1,7 +1,7 @@
 Instructions:
 ------------
 
-1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
 - Is the abstract a condensation and concentration of the essential information in my presentation?
 - Does the text stay within the 500 word limit?
 - Does the text read well? Is there sufficient variation in sentence length?
@@ -15,61 +15,51 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
+------------------------------------------------------------------------------------------
+File name: 22.txt
 
----------------------------------------------------------------------------
-File name: 111173157-702543_19169573_abstract.txt_1427063_1060043053.txt
+Rank:  4/5
 
-Rank: 1/5
+Feedback:
 
-Feedback: 
---------
+okay
 
-Really good condensation of points of the lecture. It doesn't just recite the lecture notes and instead condenses its essential thesis into something that feels like it has a conclusion. It reads very naturally and achieves it in just over 400 words.
+------------------------------------------------------------------------------------------
+File name: 7.txt
 
+Rank:  3/5
 
----------------------------------------------------------------------------
-File name: 111173758-708817_16014733_Abstract.txt_1427063_141703441.txt
+Feedback:
 
-Rank: 3/5
+good
 
-Feedback: 
---------
+------------------------------------------------------------------------------------------
+File name: 12.txt
 
-It goes over the word limit by 50 words. However it is very easy to read and has a natural flow to it, condensing the lecture content comprehensively and without drily reciting. Could maybe have been edited down, to avoid wordy writing and keep to word limit.
+Rank:  5/5
 
+Feedback:
 
----------------------------------------------------------------------------
-File name: 111252320-702545_19162427_abstract_1427063_1029898270.txt
+bad
 
-Rank: 4/5
+------------------------------------------------------------------------------------------
+File name: 20.txt
 
-Feedback: 
---------
+Rank:  1/5
 
-It covers the entirety of the lecture but maybe gives too much space up to smaller points and too little to more significant aspects. It keeps to the word count and explains very concisely with generally fluid writing, but is bitty at points due to listing in sentences.
+Feedback:
 
+outstanding
 
----------------------------------------------------------------------------
-File name: 111282761-720117_15006787_Scrutiny_of_an_Abstract_Lecture_1427063_1457572632.txt
+------------------------------------------------------------------------------------------
+File name: 16.txt
 
-Rank: 5/5
+Rank:  2/5
 
-Feedback: 
---------
+Feedback:
 
-The abstract is easy to read with non-repetitive writing and varying sentence lengths, which keeps to the 500 word limit. It only, however, focuses on the initial part of the lecture on paper format. Because it stretches out this part of the lecture to 500 words it is a bit overwritten at points.
+great
 
-
----------------------------------------------------------------------------
-File name: 111127819-702431_16076029_An_Abstract_of_the_Concrete_1427063_178297256.txt
-
-Rank: 2/5
-
-Feedback: 
---------
-
-It covers the entirety of the lecture content in a logical order. The writing is functional but a bit dry and most of the sentences are short-medium length and it feels quite unnatural to read. At times it resorts to recounting rather than summarising the presentation. It keeps to the word count.
-
-
+------------------------------------------------------------------------------------------

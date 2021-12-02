@@ -1,7 +1,7 @@
 Instructions:
 ------------
 
-1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
 - Is the abstract a condensation and concentration of the essential information in my presentation?
 - Does the text stay within the 500 word limit?
 - Does the text read well? Is there sufficient variation in sentence length?
@@ -15,51 +15,51 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
+------------------------------------------------------------------------------------------
+File name: 13.txt
 
----------------------------------------------------------------------------
-File name: 111168037-702541_16071976_Abstract_1427063_1913327602.txt
+Rank:  4/5
 
-Rank: 1/5
+Feedback:
 
-Feedback: 
---------
-The abstract covers most parts of the presentation and stays within 500 word limit. The structure of the abstract is quite clear that it is easy for readers to identify the key points of the lecture. There is sufficient variation in sentence length. However, the abstract seems to be a little bit imbalance as it uses around half of its length to summarise the first half of the presentation. Hence more parts can be condensed to make it shorter.
+okay
 
----------------------------------------------------------------------------
-File name: 111172023-702449_110044320_Abstract_1427063_60177606.txt
+------------------------------------------------------------------------------------------
+File name: 4.txt
 
-Rank: 4/5
+Rank:  1/5
 
-Feedback: 
---------
-This abstract includes nearly all parts of the presentation and stays within 500 word limit. However, the abstract seems to be not condensed and concentrated enough as it detailedly described the first half of the presentation. Also, the structure of the abstract is not clear enough for readers to identify. Some sentences are far too long and complicated that readers may not skim over it.
+Feedback:
 
----------------------------------------------------------------------------
-File name: 111172506-702475_16063531_Abstract_1427063_1153332793.txt
+outstanding
 
-Rank: 2/5
+------------------------------------------------------------------------------------------
+File name: 7.txt
 
-Feedback: 
---------
-The abstract does summarise the important parts of the lecture by using 500 words. The structure of this abstract is quite clear that readers may easily identify the key points.  There is sufficient variation in sentence length. However, the abstract can be even more condensed and concentrated by eliminating some elaborations and examples. The abstract is still considered to be reader-friendly in general. 
+Rank:  3/5
 
----------------------------------------------------------------------------
-File name: 111173157-702543_19169573_abstract.txt_1427063_1060043053.txt
+Feedback:
 
-Rank: 5/5
+good
 
-Feedback: 
---------
-The abstract includes almost all parts of the lecture within 500 words. The structure of the abstract is not that clear. It takes sometime for reader to figure out the key points of the presentation. The abstract spends too much time to explain the the functions of different parts of scientific writing paper. The later part of the presentation is briefly discussed. Sentence variation in this abstract is not sufficient enough so it is a bit difficult for readers to skim through and read out loud. This abstract is not precise and concise in general and it has space to improve.
+------------------------------------------------------------------------------------------
+File name: 11.txt
 
----------------------------------------------------------------------------
-File name: 111173758-708817_16014733_Abstract.txt_1427063_141703441.txt
+Rank:  2/5
 
-Rank: 3/5
+Feedback:
 
-Feedback: 
---------
-The abstract summarises all parts of the lecture but exceeds 500 word limit. The structure  of the abstract is fairly clear. There is sufficent variation in sentence length. However, the text is not condensed and concentration enough as some key parts of the presentation are detailedly discussed. Only key points of the presentation should be included. But the abstract is still considered to be reader-friendly. Readers are able to skim over and understand the text in short period of time.
+great
 
+------------------------------------------------------------------------------------------
+File name: 6.txt
+
+Rank:  5/5
+
+Feedback:
+
+bad
+
+------------------------------------------------------------------------------------------

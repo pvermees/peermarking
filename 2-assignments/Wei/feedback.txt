@@ -1,0 +1,65 @@
+Instructions:
+------------
+
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
+
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
+
+2. Provide at least 5 lines of feedback based on the above criteria.
+
+3. Upload this feedback.txt file to Moodle.
+
+------------------------------------------------------------------------------------------
+File name: 21.txt
+
+Rank:  /5
+
+Feedback:
+
+
+
+------------------------------------------------------------------------------------------
+File name: 14.txt
+
+Rank:  /5
+
+Feedback:
+
+
+
+------------------------------------------------------------------------------------------
+File name: 7.txt
+
+Rank:  /5
+
+Feedback:
+
+
+
+------------------------------------------------------------------------------------------
+File name: 18.txt
+
+Rank:  /5
+
+Feedback:
+
+
+
+------------------------------------------------------------------------------------------
+File name: 16.txt
+
+Rank:  /5
+
+Feedback:
+
+
+
+------------------------------------------------------------------------------------------

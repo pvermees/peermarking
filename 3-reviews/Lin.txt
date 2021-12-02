@@ -1,7 +1,7 @@
 Instructions:
 ------------
 
-1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
 - Is the abstract a condensation and concentration of the essential information in my presentation?
 - Does the text stay within the 500 word limit?
 - Does the text read well? Is there sufficient variation in sentence length?
@@ -15,70 +15,51 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
+------------------------------------------------------------------------------------------
+File name: 20.txt
 
----------------------------------------------------------------------------
-File name: 111163289-702509_19127940_abstract.txt_1427063_1925469492.txt
+Rank:  1/5
 
-Rank: 2/5
+Feedback:
 
-Feedback: 
-The text does stay within 500 words limit.
-The abstract generally summarizes the lecture of Science Report Writing.
-But some sentences are too oral, expressions need to be more academic.
-Also need to give a general coclusion at the end of the abstract.
-Overall, it is very clear to read and understant what the writer wants to express and some sentences show the well understanding of specific knowledage.
+outstanding
 
+------------------------------------------------------------------------------------------
+File name: 14.txt
 
----------------------------------------------------------------------------
-File name: 111163772-702505_18163356_Abstract_1427063_1377310216.txt
+Rank:  4/5
 
-Rank: 1/5
+Feedback:
 
-Feedback: 
-The abstract shows enough essential information of the lecture.
-There are some variations in sentence length but the expression is still too oral.
-Some parts discussed in the abstract is too detailed and can be simplified (eg, structure of paper follows: title, abstract, intro ...etc).
-Still need a summarized sentence at the end of the abstract.
-There are some own understandings of the knowledge and you generally write concisely, which is good.
+okay
 
+------------------------------------------------------------------------------------------
+File name: 4.txt
 
----------------------------------------------------------------------------
-File name: 111164169-702533_18081809_abstract_1427063_1733928975.txt
+Rank:  3/5
 
-Rank: 4/5
+Feedback:
 
-Feedback: 
-This abstract does not contain all the information that presented in the lecture (Typesetting, vector and raster graphics)
-It only concentrates on discussing general guidelines of writing scientific paper, need to be more summarized. 
-The text presented is very well and it does show some variations in sentence length.
-The structure of the abstract is very clear and follows the right expression.
-The text does stay within 500 words.
+good
 
+------------------------------------------------------------------------------------------
+File name: 19.txt
 
----------------------------------------------------------------------------
-File name: 111166293-702503_19092722_HJGD4_Abstract_1427063_15734031.txt
+Rank:  5/5
 
-Rank: 3/5
+Feedback:
 
-Feedback: 
-This abstract has presented sufficient information about the lecture of Scientific Report Writing.
-The sentence used in the abstract is very simple and do not show enough variations in sentence length.
-Some words used in the abstract are not very acuurate which may decrease the value of the paper or give misinformation.
-Frequent repetition of simple sentence may distract attention of your readers (use different expressions, arresting first sentences...).
-The text in the abstract does stay within 500 words.
+bad
 
+------------------------------------------------------------------------------------------
+File name: 17.txt
 
----------------------------------------------------------------------------
-File name: 111167174-702477_19160418_Abstract_of_Lecture_One_1427063_1130042372.txt
+Rank:  2/5
 
-Rank: 5/5
+Feedback:
 
-Feedback: 
-The number of words is far from 500 but shows a clear and logical structure.
-Most of the information is clear and well presented which helps reader to understand easily.
-Good use of variations in sentence length.
-It is easy to get an idea of waht the abstract is talking about but some information can be discussed broadly.
-Overall, this abtract is decent but need extra rewriting and modification. 
+great
 
+------------------------------------------------------------------------------------------

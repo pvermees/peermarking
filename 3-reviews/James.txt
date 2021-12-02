@@ -1,7 +1,7 @@
 Instructions:
 ------------
 
-1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
 - Is the abstract a condensation and concentration of the essential information in my presentation?
 - Does the text stay within the 500 word limit?
 - Does the text read well? Is there sufficient variation in sentence length?
@@ -15,68 +15,51 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
+------------------------------------------------------------------------------------------
+File name: 2.txt
 
----------------------------------------------------------------------------
-File name: 111160272-702537_16021686_abstract_1427063_273444484.txt
+Rank:  3/5
 
-Rank: 5/5
+Feedback:
 
-Feedback: 
-Over the word counts, the format was more of a mini essay not an abstract.
-It doesnt read well, and is clunky. 
+good
 
-[enter text here]
+------------------------------------------------------------------------------------------
+File name: 18.txt
 
+Rank:  2/5
 
----------------------------------------------------------------------------
-File name: 111163289-702509_19127940_abstract.txt_1427063_1925469492.txt
+Feedback:
 
-Rank: 3/5
+great
 
-Feedback: 
-Fits the word count, with all the content from the lecture is covered. But the sentance construction makes it hard to read
+------------------------------------------------------------------------------------------
+File name: 17.txt
 
-[enter text here]
+Rank:  1/5
 
+Feedback:
 
----------------------------------------------------------------------------
-File name: 111163772-702505_18163356_Abstract_1427063_1377310216.txt
+outstanding
 
-Rank: 4/5
+------------------------------------------------------------------------------------------
+File name: 22.txt
 
-Feedback: 
-Word count is fine, opening sentance is hard to follow. The discussion about the structure of papers could have been simpler and shorter. 
-Overall the whole abstract was a bit too wordy and could have been clearer
+Rank:  4/5
 
-[enter text here]
+Feedback:
 
+okay
 
----------------------------------------------------------------------------
-File name: 111164169-702533_18081809_abstract_1427063_1733928975.txt
+------------------------------------------------------------------------------------------
+File name: 21.txt
 
-Rank: 2/5
+Rank:  5/5
 
-Feedback: 
---------
-In word count
-All the conent was covered and well worded. It read easily, could have done with a closing secentance to tie it all together
-[enter text here]
+Feedback:
 
+bad
 
----------------------------------------------------------------------------
-File name: 111166293-702503_19092722_HJGD4_Abstract_1427063_15734031.txt
-
-Rank: 1/5
-
-Feedback: 
---------
-Really well layed out
-In count
-Good sentance construction and varied length. 
-Nice concluding sentance which tied it all together 
-A well constructed abstract, it gives you a full overview of the lecture, with enough detail on th key points.
-sentence length and variation is good. fits the word count. 
-
-
+------------------------------------------------------------------------------------------

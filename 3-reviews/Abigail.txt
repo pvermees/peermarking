@@ -1,7 +1,7 @@
 Instructions:
 ------------
 
-1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
 - Is the abstract a condensation and concentration of the essential information in my presentation?
 - Does the text stay within the 500 word limit?
 - Does the text read well? Is there sufficient variation in sentence length?
@@ -15,85 +15,51 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
+------------------------------------------------------------------------------------------
+File name: 19.txt
 
----------------------------------------------------------------------------
-File name: 111142205-702555_16062007_Abstract_Task_1427063_1133309738.txt
+Rank:  1/5
 
-Rank: 2/5
+Feedback:
 
-Feedback: 
---------
+outstanding
 
--Strong abstract, reads well and captures everything mentioned in the lecture.
--The wording is a bit complex, could do with useing simplified language.
--Cutting down the length of sentences would be beneficial. The second paragraph is overly descriptive and could be shortened/made more concise.
--Within the word count.
--Nice concluding sentence.
+------------------------------------------------------------------------------------------
+File name: 10.txt
 
----------------------------------------------------------------------------
-File name: 111144964-657997_15103278_abstract_1427063_1316224744.txt
+Rank:  5/5
 
-Rank: 3/5
+Feedback:
 
-Feedback: 
---------
+bad
 
--Within the word count. 
--Covers everything in the lecture. 
--Good concluding sentence
--Sentences are a bit wordy and not of varying lengths. 
--Could be more concise, writer repeats themselves often. 
+------------------------------------------------------------------------------------------
+File name: 8.txt
 
+Rank:  3/5
 
+Feedback:
 
----------------------------------------------------------------------------
-File name: 111152417-677283_19029066_abstract_1427063_619880857.txt
+good
 
-Rank: 4/5
+------------------------------------------------------------------------------------------
+File name: 16.txt
 
-Feedback: 
---------
+Rank:  2/5
 
+Feedback:
 
--The abstract doesn't flow well when reading through it. 
--There could be better links to between the pragraph to help with the readability.
--Within word limit .
--Covers the all of the points made in the lecture.
--Could have benefitted from a concluding sentence.
+great
 
+------------------------------------------------------------------------------------------
+File name: 2.txt
 
----------------------------------------------------------------------------
-File name: 111155486-702461_18163648_Abstract_writing_exercise_1427063_745111787.txt
+Rank:  4/5
 
-Rank: 1/5
+Feedback:
 
-Feedback: 
---------
+okay
 
-
--This abstract reads very well.
--As the writer has used engaging and interesting language to put their points across. 
--Uses sentences of varying length, which adds to it's readability. 
--The writer has not summarised everything that was mentioned in the lecture. There isn't much of a reference to software in the abstract, which was a key part of the first lecture.
--Over the word count, could have been more concise. 
-
-
-
----------------------------------------------------------------------------
-File name: 111156244-702529_19177656_Abstract.txt_1427063_1644334090.txt
-
-Rank: 5/5
-
-Feedback: 
---------
-
-- Not sure if the writer understood the aim of the assessment, they have missed out many of the essential points of the lecture and mainly focuses on structure of a research paper. 
--Some sentences are too long, need to be cut down.
--Over the word count
--Simplified language should be used.
--Doesn't read as well as it should
-
-
-
+------------------------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 Instructions:
 ------------
 
-1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
 - Is the abstract a condensation and concentration of the essential information in my presentation?
 - Does the text stay within the 500 word limit?
 - Does the text read well? Is there sufficient variation in sentence length?
@@ -15,86 +15,51 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
+------------------------------------------------------------------------------------------
+File name: 15.txt
 
----------------------------------------------------------------------------
-File name: 111127819-702431_16076029_An_Abstract_of_the_Concrete_1427063_178297256.txt
+Rank:  4/5
 
-Rank: 3/5
+Feedback:
 
-Feedback: 
---------
+okay
 
-The use of the first-person (e.g. 'we') should be avoided.
-The sentences are of appropriate and varied lengths, helping to make the abstract easy to read.
-The core content is included, though the coverage of it should be more concise at times.
-100% of the word count has been used, which is positive.
-The text broadly reads well.
+------------------------------------------------------------------------------------------
+File name: 8.txt
 
+Rank:  2/5
 
----------------------------------------------------------------------------
-File name: 111130406-660509_18118084_GEOL0037_First_Lecture_Abstract_1427063_1293305548.txt
+Feedback:
 
-Rank: 3/5
+great
 
-Feedback: 
---------
+------------------------------------------------------------------------------------------
+File name: 2.txt
 
-The abstract is too short.
-The lack of use of 40% of the available word count means that core content, especially concerning scientific report writing, hasn't always received sufficient attention.
-The sentences are of appropriate and varied lengths.
-When core content is covered, the coverage is appropriately concise.
-Some sentences are ambiguous, which makes the abstract slightly difficult to read at times.
+Rank:  3/5
 
+Feedback:
 
----------------------------------------------------------------------------
-File name: 111133358-702423_18074590_Abstract_1427063_899141958.txt
+good
 
-Rank: 3/5
+------------------------------------------------------------------------------------------
+File name: 7.txt
 
-Feedback: 
---------
+Rank:  1/5
 
-Some of the core content is included, but almost 30% of the word limit hasn't been used.
-Some of the sentences are too long, making the abstract difficult to read at times.
-Abstracts shouldn't contain directions for further reading outside of their attached paper.
-Most of the coverage of core content is appropriately concise.
-Coverage of the basics of scientifc report writing should be more extensive.
+Feedback:
 
+outstanding
 
+------------------------------------------------------------------------------------------
+File name: 1.txt
 
+Rank:  5/5
 
----------------------------------------------------------------------------
-File name: 111142205-702555_16062007_Abstract_Task_1427063_1133309738.txt
+Feedback:
 
-Rank: 4/5
+bad
 
-Feedback: 
---------
-
-The core content is included, but 20% of the word limit hasn't been used.
-The sentences are of appropriate and varied lengths, helping to make the abstract easy to read.
-Coverage of the content is generally concise.
-There is too much detail in some sections, particularly when individual references are mentioned.  Abstracts shouldn't contain their own list of references.
-There are some non-standard choices of word, such as the use of 'speculate'; which could lead to some confusion upon reading the abstract.
-
-
-
-
----------------------------------------------------------------------------
-File name: 111144964-657997_15103278_abstract_1427063_1316224744.txt
-
-Rank: 3/5
-
-Feedback: 
---------
-
-The abstract uses up almost all of the word limit, making it of a good length.
-Some core content is included, though there isn't enough detail about the structure of a scientific paper.
-Many points are made concisely, in sentences broadly of appropriate and varied lengths.
-A number of sentences don't make sense, making the abstract difficult to read at times.
-The use of the first-person (e.g. 'our') should be avoided.
-
-
-
+------------------------------------------------------------------------------------------

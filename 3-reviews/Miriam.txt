@@ -1,7 +1,7 @@
 Instructions:
 ------------
 
-1. Rank the submissions from 1 to  5  based on the criteria set out in the notes, including:
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
 - Is the abstract a condensation and concentration of the essential information in my presentation?
 - Does the text stay within the 500 word limit?
 - Does the text read well? Is there sufficient variation in sentence length?
@@ -15,57 +15,51 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 
 2. Provide at least 5 lines of feedback based on the above criteria.
 
-3. Upload this assessment.txt file to Moodle.
+3. Upload this feedback.txt file to Moodle.
 
+------------------------------------------------------------------------------------------
+File name: 12.txt
 
----------------------------------------------------------------------------
-File name: 111163772-702505_18163356_Abstract_1427063_1377310216.txt
+Rank:  4/5
 
-Rank: 2/5
+Feedback:
 
-Feedback: 
---------
+okay
 
-The abstract is a very good condensation of the crucial points of the lecture. There is not much variation in sentence structure and phrasing in the first part of the abstract but this improves later on. The abstract feels a little unbalanced as it focuses heavily on the structure of the research paper, but the key ideas are all touched upon in the text, and it is within the word limit. In general, it is very well written and easy to understand.
+------------------------------------------------------------------------------------------
+File name: 6.txt
 
----------------------------------------------------------------------------
-File name: 111164169-702533_18081809_abstract_1427063_1733928975.txt
+Rank:  5/5
 
-Rank: 5/5
+Feedback:
 
-Feedback: 
---------
+bad
 
-This abstract covers most of the essential information of the lecture, but could have included more of the points on good and bad graphics. The author neglected to mention posters and PowerPoint presentations, which were key details in the lecture. The text is just under the limit which means that the author has probably focused a little too much on the earlier ideas in the presentation (the sections that make up a scientific paper). At times the sentences are difficult to understand, although there is a good variation in sentence length and structure.
+------------------------------------------------------------------------------------------
+File name: 18.txt
 
----------------------------------------------------------------------------
-File name: 111166293-702503_19092722_HJGD4_Abstract_1427063_15734031.txt
+Rank:  1/5
 
-Rank: 1/5
+Feedback:
 
-Feedback: 
---------
+outstanding
 
-This abstract is an excellent condensation of the key information presented in the lecture. The text is within the word limit and contains all of the main ideas of the presentation. There are times where the sentence structure could have been varied a little more to give the abstract more fluidity, but overall it is well written and makes sense when read aloud. It is a well-balanced abstract and does not focus too heavily on one section at the expense of others.
+------------------------------------------------------------------------------------------
+File name: 13.txt
 
----------------------------------------------------------------------------
-File name: 111167174-702477_19160418_Abstract_of_Lecture_One_1427063_1130042372.txt
+Rank:  3/5
 
-Rank: 3/5
+Feedback:
 
-Feedback: 
---------
+good
 
-Overall this is a good summary of the fundamental points of the presentation, and it condenses and concentrates the key information well. The text is a little incoherent at times and more varied sentence structure could have been used. The abstract is well within the word limit, so it could have been slightly longer and included more information, making it a more complete summary. For example, the author does not mention PowerPoint presentations. 
+------------------------------------------------------------------------------------------
+File name: 9.txt
 
----------------------------------------------------------------------------
-File name: 111168037-702541_16071976_Abstract_1427063_1913327602.txt
+Rank:  2/5
 
-Rank: 4/5
+Feedback:
 
-Feedback: 
---------
+great
 
-The beginning sentence is snappy and grabs attention immediately. The text is within the limit and provides a good condensation of the presentation's central ideas. However, there isn't much variation in sentence length, particularly in the first paragraph. The abstract could also have focused more on the second half of the presentation and included more information on graphics, PowerPoint presentations and posters. The part on vector and raster graphics is also a little difficult to understand.  
-
-
+------------------------------------------------------------------------------------------

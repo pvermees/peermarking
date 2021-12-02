@@ -1,53 +1,65 @@
+Instructions:
+------------
 
-File name: 111158136-702471_19056514_abstract_1427063_761657559 
-Rank: 1/5
+1. Rank the submissions from 1 to 5 based on the criteria set out in the notes, including:
+- Is the abstract a condensation and concentration of the essential information in my presentation?
+- Does the text stay within the 500 word limit?
+- Does the text read well? Is there sufficient variation in sentence length?
+- Can you understand the text? Does it sound right when you read it out loud?
+- ...
 
-Feedback: 
---------
+IMPORTANT: Please be aware that not everyone is a native English speaker.
+  Try not to penalise people for basic grammatical and language errors.
+  This is not an English test, so it should be possible for an overseas 
+  student to get the best score!
 
-[Well written, easy to follow and summarises the key parts of the lecture in a good amount of detail while remaining concise and within the word limit given. Effective final sentence highlighting the similarities between the different styles of presenting data through written and presented formats - engages the reader. Follows the guidelines set out in 'Scrutiny of the Abstract'.]
+2. Provide at least 5 lines of feedback based on the above criteria.
 
----------------------------------------------------------------------------
-File name: 111160272-702537_16021686_abstract_1427063_273444484 
-Rank: 4/5
+3. Upload this feedback.txt file to Moodle.
 
-Feedback: 
---------
+------------------------------------------------------------------------------------------
+File name: 9.txt
 
-[Reads well and flows nicely. Good comparison between markup languages as well as vector and raster data - concise and gives a good summary of the key differences. 
-Could benefit from including more specific reference to posters and presentations. Quite heavily focused on report writing at the expense of covering all the material covered in the practical.
-Slightly over the word limit]
+Rank:  4/5
 
----------------------------------------------------------------------------
-File name: 111163289-702509_19127940_abstract.txt_1427063_1925469492 
+Feedback:
 
-Rank: 2/5
+okay
 
-Feedback: 
---------
+------------------------------------------------------------------------------------------
+File name: 8.txt
 
-[Does very well to stay concise yet cover the key info from the practical session, covering the major topics. Good explanation of why the abstract is so important and effective comparisons between markup language types and vector vs raster graphics. Easily understood and reads well when spoken.  
-May benefit from a more engaging conclusion, ends quite abruptly. The last few sentences could influence whether somebody engages with the rest of the paper or not so may be worth emphasising why the study itself is important and the contribution it makes to the field.]
+Rank:  3/5
 
----------------------------------------------------------------------------
-File name: 111163772-702505_18163356_Abstract_1427063_1377310216 
+Feedback:
 
-Rank: 3/5
+good
 
-Feedback: 
---------
+------------------------------------------------------------------------------------------
+File name: 18.txt
 
-[First few sentences effectively justify the motivations for the study. Sentences are short and to the point, conveying the important information in appropriate detail for an abstract. Good range of topics from the practical covered - key info has been selected and presented well.
-Could benefit from a more engaging conclusion, such as an overview of the paper or by reiterating the importance of the study.]
+Rank:  2/5
 
----------------------------------------------------------------------------
-File name: 111164169-702533_18081809_abstract_1427063_1733928975 
+Feedback:
 
-Rank: 5/5
+great
 
-Feedback: 
---------
+------------------------------------------------------------------------------------------
+File name: 12.txt
 
-[Good overview of the major parts of a scientific study. Emphasis on why it is so important to have an abstract that is well-written and concise. Effective use of sentence length variation.  
-Does not cover the entirety of topics covered in the practical session e.g., posters and powerpoint presentations. Largely only focuses on the report writing skills and how to produce an effective scientific paper. Lots of detail that might be better suited for the paper itself rather than the abstract. 
-Not easy to understand in parts.]
+Rank:  5/5
+
+Feedback:
+
+bad
+
+------------------------------------------------------------------------------------------
+File name: 4.txt
+
+Rank:  1/5
+
+Feedback:
+
+outstanding
+
+------------------------------------------------------------------------------------------

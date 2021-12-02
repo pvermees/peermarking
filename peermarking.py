@@ -20,26 +20,32 @@ for key in list(blocks.keys()):
         break
 
 # 3. assign the pairs
+aliases = np.arange(n)+1
+np.random.shuffle(aliases) # anonymise the submissions
 pairs = np.zeros(shape=(n,k)).astype(int)
 nb = len(block)
 j = np.arange(nb-1)
 np.random.shuffle(j)
-alias = []
-for i in range(n):
-    peers = block[j[i],:]
-    goodpeers = peers[peers<n]
-    ngp = len(goodpeers)
-    nchoices = min(ngp,k)
-    chosenpeers = np.random.choice(goodpeers,size=nchoices,replace=False)
-    if ngp < k:
-        otherpeers = np.setdiff1d(np.arange(n),chosenpeers)
-        randompeers = np.random.choice(otherpeers,size=k-ngp,replace=False)
-        chosenpeers = np.concatenate([chosenpeers,randompeers])
-    pairs[i,:] = chosenpeers
+done = []
+for ia in range(n): # loop through students/aliases
+    alias = aliases[ia]
+    for ib in range(nb-1): # loop through the block
+        if not ib in done:
+            peers = block[j[ib],:]
+            goodpeers = peers[peers<n]
+            ngp = len(goodpeers)
+            nchoices = min(ngp,k)
+            chosenpeers = np.random.choice(goodpeers,size=nchoices,replace=False)
+            if ngp < k:
+                otherpeers = np.setdiff1d(np.arange(n),np.append(chosenpeers,ia))
+                randompeers = np.random.choice(otherpeers,size=k-ngp,replace=False)
+                chosenpeers = np.concatenate([chosenpeers,randompeers])
+            if not alias in chosenpeers:
+                pairs[ia,:] = chosenpeers
+                done.append(ib)
+                break
 
-# 4. copy and anonymise the assignments
-aliases = np.arange(n)+1
-np.random.shuffle(aliases)
+# 4. copy the assignments
 for i in range(n):
     path = os.path.splitext(os.path.basename(submissions[i]))
     marker = path[0]
