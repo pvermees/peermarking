@@ -4,11 +4,11 @@ import numpy as np
 import shutil
 
 # 1. setup
-np.random.seed(1) # for the sake of reproducibility
+np.random.seed(2) # for the sake of reproducibility
 dirs = ['1-submissions','2-assignments','3-reviews','4-feedback']
 instructions = 'instructions.txt'
 k = 5 # number of peers assigned to each student
-submissions = os.listdir(dirs[0])
+submissions = sorted(os.listdir(dirs[0]))
 n = len(submissions)
 blocks = json.loads(open('blocks.json').read())
 

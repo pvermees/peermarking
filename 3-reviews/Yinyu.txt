@@ -18,48 +18,38 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 3. Upload this feedback.txt file to Moodle.
 
 ------------------------------------------------------------------------------------------
-File name: 4.txt
+File name: 7.txt
 
 Rank:  1/5
 
-Feedback:
-
-outstanding
+Feedback: outstanding
 
 ------------------------------------------------------------------------------------------
-File name: 21.txt
-
-Rank:  5/5
-
-Feedback:
-
-bad
-
-------------------------------------------------------------------------------------------
-File name: 16.txt
+File name: 10.txt
 
 Rank:  2/5
 
-Feedback:
-
-great
+Feedback: great
 
 ------------------------------------------------------------------------------------------
-File name: 15.txt
+File name: 22.txt
 
-Rank:  4/5
+Rank:  5/5
 
-Feedback:
-
-okay
+Feedback: bad
 
 ------------------------------------------------------------------------------------------
 File name: 3.txt
 
+Rank:  4/5
+
+Feedback: okay
+
+------------------------------------------------------------------------------------------
+File name: 17.txt
+
 Rank:  3/5
 
-Feedback:
-
-good
+Feedback: good
 
 ------------------------------------------------------------------------------------------

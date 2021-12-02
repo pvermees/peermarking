@@ -18,7 +18,7 @@ IMPORTANT: Please be aware that not everyone is a native English speaker.
 3. Upload this feedback.txt file to Moodle.
 
 ------------------------------------------------------------------------------------------
-File name: 20.txt
+File name: 1.txt
 
 Rank:  /5
 
@@ -27,7 +27,7 @@ Feedback:
 
 
 ------------------------------------------------------------------------------------------
-File name: 14.txt
+File name: 6.txt
 
 Rank:  /5
 
@@ -36,7 +36,7 @@ Feedback:
 
 
 ------------------------------------------------------------------------------------------
-File name: 4.txt
+File name: 10.txt
 
 Rank:  /5
 
@@ -45,7 +45,7 @@ Feedback:
 
 
 ------------------------------------------------------------------------------------------
-File name: 19.txt
+File name: 12.txt
 
 Rank:  /5
 
@@ -54,7 +54,7 @@ Feedback:
 
 
 ------------------------------------------------------------------------------------------
-File name: 17.txt
+File name: 18.txt
 
 Rank:  /5
 

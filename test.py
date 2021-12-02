@@ -1,11 +1,14 @@
 import os
 import numpy as np
 import shutil
-from scipy.stats import rankdata
 
 np.random.seed(1) # for the sake of reproducibility
 
 dirs = ['1-submissions','2-assignments','3-reviews','4-feedback']
+
+for dir in dirs:
+    os.system('rm -rf ' + dir + '/*')
+
 students = ['Abigail','Alexander','Catarina','Giulio','Hantao',\
             'James','Jiawei','Jordan','Joseph','Lin','Matthew',\
             'Miriam','Morgan','Oscar','Sicun','Summer','Tang',\
@@ -34,12 +37,12 @@ for i in range(n):
     feedbackfile = os.path.join(dirs[2],marker + ext)
     f = open(feedbackfile, 'a+')
     shutil.copy(instructions,feedbackfile)
-    ranks = rankdata(peers)
+    ranks = np.argsort(peers)+1
     for j in range(k):
         alias = str(aliases[peers[j]]) + ext
         f.write('File name: ' + alias + '\n\n')
         f.write('Rank:  ' + str(int(ranks[j])) + '/' + str(k) + '\n\n')
-        f.write('Feedback:\n\n')
+        f.write('Feedback: ')
         f.write(feedback[int(ranks[j])-1] + '\n\n')
         f.write('---------------------------------------------')
         f.write('---------------------------------------------\n')
