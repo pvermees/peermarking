@@ -64,8 +64,8 @@ for m in range(n): # loop through the markers
         nmarked[j] += 1
 
 # anonymise the assignments
-aliases = np.arange(n)# + 1
-#np.random.shuffle(aliases) # anonymise the submissions
+aliases = np.arange(n) + 1
+np.random.shuffle(aliases) # anonymise the submissions
 
 # 4. copy the assignments
 for i in range(n):

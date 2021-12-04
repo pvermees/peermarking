@@ -51,5 +51,3 @@ for i in range(n):
 
 # 3. extract the ranks
 exec(open("mark.py").read())
-
-exec(open("peerGrader.py").read())
