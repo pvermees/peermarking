@@ -61,12 +61,16 @@ for key in keys:
 PGF = ''
 keys = list(ranks.keys())
 for key in keys:
+    print(str(key))
     PGF += 'task1 ' + str(key) + ' '
-    nr = len(ranks[key]['rank'])
-    for i in range(nr-1):
-        r = ranks[key]['rank'][i]
-        PGF += ranks[key]['student'][r-1] + ' > '
-    PGF += ranks[key]['student'][nr-1] + '\n'
+    s = np.asarray(ranks[key]['student'])
+    r = np.asarray(ranks[key]['rank'])
+    for i in range(k):
+        j = np.where(i == r-1)[0][0]
+        PGF += s[j]
+        if i<k-1:
+             PGF += ' > '
+    PGF += '\n'
 PGFfile = os.path.join(dirs[4],'ranks.pgf')
 f = open(PGFfile, 'w')
 f.write(PGF)

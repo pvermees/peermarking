@@ -1,12 +1,8 @@
- outstanding
+ bad
 
- okay
+ bad
 
- outstanding
+ bad
 
- outstanding
-
- great
-
- great
+ bad
 

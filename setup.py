@@ -18,32 +18,59 @@ for key in list(blocks.keys()):
     if len(b[1]) >= k and len(b) >= n:
         block = np.array(b)
         break
-
+    
 # 3. assign the pairs
-aliases = np.arange(n)+1
-np.random.shuffle(aliases) # anonymise the submissions
-pairs = np.zeros(shape=(n,k)).astype(int)
-nb = len(block)
-j = np.arange(nb-1)
-np.random.shuffle(j)
-done = []
-for ia in range(n): # loop through students/aliases
-    alias = aliases[ia]
-    for ib in range(nb-1): # loop through the block
-        if not ib in done:
-            peers = block[j[ib],:]
-            goodpeers = peers[peers<n]
-            ngp = len(goodpeers)
-            nchoices = min(ngp,k)
-            chosenpeers = np.random.choice(goodpeers,size=nchoices,replace=False)
-            if ngp < k:
-                otherpeers = np.setdiff1d(np.arange(n),np.append(chosenpeers,ia))
-                randompeers = np.random.choice(otherpeers,size=k-ngp,replace=False)
-                chosenpeers = np.concatenate([chosenpeers,randompeers])
-            if not alias in chosenpeers:
-                pairs[ia,:] = chosenpeers
-                done.append(ib)
-                break
+nomarker = np.zeros(shape=(nb,n)).astype(bool)
+for b in range(nb):
+    for s in range(n):
+        nomarker[b][s] = s not in block[b]
+
+# m = marker
+# nmarked = number of times each student has been marked
+# block = block design
+# done = logical vector showing which block entries have already been used
+def nextblock(m,nmarked,block,done):
+    n = len(nmarked)
+    nb = len(block)
+    # 1. count the number of marks per block
+    marksperblock = np.zeros(nb,dtype=int)
+    for i in range(nb):
+        b = block[i]
+        for s in b:
+            if s < n:
+                marksperblock[i] += nmarked[s]
+    # 2. loop through the rows of the block and find the 
+    #    most undersampled one that does not contain the marker
+    out = k+1
+    nmarks = max(marksperblock)
+    for i in range(nb):
+        if (m not in block[i]) and (marksperblock[i]<nmarks) and (not done[i]):
+            nmarks = marksperblock[i]
+            out = i
+    return(out)
+
+pairs = np.zeros(shape=(n,k)).astype(int) # peers for each marker
+done = np.zeros(nb,dtype=bool) # blocks that are done
+nmarked = np.zeros(n,dtype=int) # number of times each student has been marked
+for m in range(n): # loop through the markers
+    bi = nextblock(m,nmarked,block,done)
+    done[bi] = True
+    b = block[bi]
+    goodpeers = b[b<n]
+    ngp = len(goodpeers)
+    nchoices = min(ngp,k)
+    chosenpeers = np.random.choice(goodpeers,size=nchoices,replace=False)
+    if ngp < k:
+        otherpeers = np.setdiff1d(np.arange(n),np.append(chosenpeers,m))
+        randompeers = np.random.choice(otherpeers,size=k-ngp,replace=False)
+        chosenpeers = np.append(chosenpeers,randompeers)
+    pairs[m,:] = chosenpeers
+    for j in chosenpeers:
+        nmarked[j] += 1
+
+# anonymise the assignments
+aliases = np.arange(n)# + 1
+#np.random.shuffle(aliases) # anonymise the submissions
 
 # 4. copy the assignments
 for i in range(n):

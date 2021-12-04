@@ -1,10 +1,12 @@
- good
+ great
 
- okay
+ great
 
- bad
+ great
 
- bad
+ great
 
- okay
+ great
+
+ outstanding
 

@@ -16,7 +16,7 @@ students = ['Abigail','Alexander','Catarina','Giulio','Hantao',\
             'Thomas','Umit','Wei','William','Yinyu','Zara']
 n = len(students)
 truerank = np.arange(0,n)+1
-np.random.shuffle(truerank)
+#np.random.shuffle(truerank)
 
 # 1. populate 1-submissions
 for i in range(n):
@@ -51,3 +51,5 @@ for i in range(n):
 
 # 3. extract the ranks
 exec(open("mark.py").read())
+
+exec(open("peerGrader.py").read())

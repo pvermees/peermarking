@@ -1,12 +1,12 @@
- bad
-
- good
-
  good
 
  okay
 
- bad
+ okay
 
  okay
+
+ okay
+
+ good
 
