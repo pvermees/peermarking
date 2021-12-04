@@ -19,12 +19,6 @@ for key in list(blocks.keys()):
         block = np.array(b)
         break
     
-# 3. assign the pairs
-nomarker = np.zeros(shape=(nb,n)).astype(bool)
-for b in range(nb):
-    for s in range(n):
-        nomarker[b][s] = s not in block[b]
-
 # m = marker
 # nmarked = number of times each student has been marked
 # block = block design
@@ -49,6 +43,7 @@ def nextblock(m,nmarked,block,done):
             out = i
     return(out)
 
+# 3. assign the pairs
 pairs = np.zeros(shape=(n,k)).astype(int) # peers for each marker
 done = np.zeros(nb,dtype=bool) # blocks that are done
 nmarked = np.zeros(n,dtype=int) # number of times each student has been marked
