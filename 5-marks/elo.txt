@@ -1,0 +1,24 @@
+"Player" "Rating" "Games" "Win" "Draw" "Loss" "Lag"
+"1" "Abigail.txt" 2470 20 20 0 0 0
+"2" "Hantao.txt" 2470 20 20 0 0 0
+"3" "Catarina.txt" 2443 20 19 0 1 0
+"4" "Alexander.txt" 2362 20 16 0 4 0
+"5" "Giulio.txt" 2335 20 15 0 5 0
+"6" "Joseph.txt" 2335 16 13 0 3 0
+"7" "Jordan.txt" 2308 20 14 0 6 0
+"8" "Matthew.txt" 2308 16 12 0 4 0
+"9" "Thomas.txt" 2308 16 12 0 4 0
+"10" "Lin.txt" 2254 20 12 0 8 0
+"11" "James.txt" 2227 20 11 0 9 0
+"12" "Jiawei.txt" 2227 20 11 0 9 0
+"13" "Summer.txt" 2200 16 8 0 8 0
+"14" "Miriam.txt" 2146 16 6 0 10 0
+"15" "Tang.txt" 2146 20 8 0 12 0
+"16" "Morgan.txt" 2092 20 6 0 14 0
+"17" "Oscar.txt" 2092 20 6 0 14 0
+"18" "William.txt" 2092 32 12 0 20 0
+"19" "Sicun.txt" 2065 20 5 0 15 0
+"20" "Zara.txt" 1984 16 0 0 16 0
+"21" "Umit.txt" 1930 20 0 0 20 0
+"22" "Wei.txt" 1930 20 0 0 20 0
+"23" "Yinyu.txt" 1876 32 4 0 28 0
